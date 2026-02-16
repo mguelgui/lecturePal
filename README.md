@@ -1,2 +1,2 @@
 # lecturePal
-Transcripts audio files
+Transcripts audio files using whisper.ai
